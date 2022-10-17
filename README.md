@@ -1,3 +1,11 @@
+
+Confocal Laser Scanning Microscopy (CLSM) is an optical imaging technique heavily used in biological sciences which can be used to analyze samples such as the tip of a plant root. Though, quantitative cell analysis can pose to be a tedious task without automation and the accuracy levels vary within the capability of individual. Meanwhile, the efficiency and accuracy within the capability of computing in image processing can be exponential if done properly. Image processing can significantly speed up and potentially produce more accurate quantitative cell analysis results, as well as lift some load off the shoulders of tired researchers hence allowing them to focus more attention on other segments of their work.
+
+This repo showcases the pipeline used to extract the quantitative data of a given set of confocal laser microscopic images of plant roots.
+
+The pipeline can be simplified to 6 steps: RGB Processing, Colour Space Conversion, Pre Processing, Thresholding, Binary Image Processing and Analysis.
+
+
 How to Run : 
 1) Make sure the images, findNuclei.m, and runResults.m are in the same
 folder.
