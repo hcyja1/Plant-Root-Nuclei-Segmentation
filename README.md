@@ -29,7 +29,8 @@ Third Image Example:
 ![RGB3](https://user-images.githubusercontent.com/73547478/209740638-e4044afa-ff1a-4589-a1bc-f414f19d6e79.png)
 ![WS3](https://user-images.githubusercontent.com/73547478/209740641-672761b1-eeba-4566-81fe-2336afd246d3.png)
 
-Analysis Example :
+Analysis Example:
+
 ![brightnessanalysis](https://user-images.githubusercontent.com/73547478/209740750-557f9345-d45f-4ac2-bc17-e4de70da8706.png)
 ![shapeanalysis1](https://user-images.githubusercontent.com/73547478/209740751-768d7137-6934-4b7c-89b8-f660c35ae0fb.png)
 ![sizeanalysis1](https://user-images.githubusercontent.com/73547478/209740756-4a87e468-616e-4623-8643-19842b91163f.png)
